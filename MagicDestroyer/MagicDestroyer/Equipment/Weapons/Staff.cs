@@ -8,5 +8,21 @@ namespace MagicDestroyer.Equipment.Weapons
 {
     class Staff
     {
+
+        private int damage;
+
+
+        //constructor
+        public Staff()
+        {
+
+        }
+
+        //methods
+        public void empower()
+        {
+            throw new NotImplementedException();
+        }
+
     }
 }

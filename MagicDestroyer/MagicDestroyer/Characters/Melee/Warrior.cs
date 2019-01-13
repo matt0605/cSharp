@@ -12,10 +12,13 @@ namespace MagicDestroyer.Characters.Melee
     {
 
         private int abilityPoints;
-        private string fraction;
         private int healthPoints;
         private int level;
+
+        private string fraction;        
         private string name;
+
+
         private Chainlink bodyArmor;
         private Axe Weapon;
 
@@ -35,18 +38,20 @@ namespace MagicDestroyer.Characters.Melee
         //methods
         public void strike()
         {
-
+            throw new NotImplementedException();
         }
 
         public void execute()
         {
 
+            throw new NotImplementedException();
 
         }
 
 
         public void skinHarden()
         {
+            throw new NotImplementedException();
 
         }
 
