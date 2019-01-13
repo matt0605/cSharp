@@ -1,0 +1,7 @@
+c:\users\szeon\source\repos\Session3\Session3\bin\Debug\Session3.exe.config
+c:\users\szeon\source\repos\Session3\Session3\bin\Debug\Session3.exe
+c:\users\szeon\source\repos\Session3\Session3\bin\Debug\Session3.pdb
+c:\users\szeon\source\repos\Session3\Session3\obj\Debug\Session3.csprojAssemblyReference.cache
+c:\users\szeon\source\repos\Session3\Session3\obj\Debug\Session3.csproj.CoreCompileInputs.cache
+c:\users\szeon\source\repos\Session3\Session3\obj\Debug\Session3.exe
+c:\users\szeon\source\repos\Session3\Session3\obj\Debug\Session3.pdb
