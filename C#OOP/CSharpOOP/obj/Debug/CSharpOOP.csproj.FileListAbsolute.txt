@@ -5,3 +5,10 @@ C:\Users\Stafford\source\repos\EntryPoint\CSharpOOP\obj\Debug\CSharpOOP.csprojAs
 C:\Users\Stafford\source\repos\EntryPoint\CSharpOOP\obj\Debug\CSharpOOP.csproj.CoreCompileInputs.cache
 C:\Users\Stafford\source\repos\EntryPoint\CSharpOOP\obj\Debug\CSharpOOP.exe
 C:\Users\Stafford\source\repos\EntryPoint\CSharpOOP\obj\Debug\CSharpOOP.pdb
+C:\Users\Stafford\source\repos\C#OOP\CSharpOOP\obj\Debug\CSharpOOP.csprojAssemblyReference.cache
+C:\Users\Stafford\source\repos\C#OOP\CSharpOOP\obj\Debug\CSharpOOP.csproj.CoreCompileInputs.cache
+C:\Users\Stafford\source\repos\C#OOP\CSharpOOP\obj\Debug\CSharpOOP.exe
+C:\Users\Stafford\source\repos\C#OOP\CSharpOOP\obj\Debug\CSharpOOP.pdb
+C:\Users\Stafford\source\repos\C#OOP\CSharpOOP\bin\Debug\CSharpOOP.exe.config
+C:\Users\Stafford\source\repos\C#OOP\CSharpOOP\bin\Debug\CSharpOOP.exe
+C:\Users\Stafford\source\repos\C#OOP\CSharpOOP\bin\Debug\CSharpOOP.pdb
