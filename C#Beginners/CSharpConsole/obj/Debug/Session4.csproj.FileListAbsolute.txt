@@ -5,3 +5,10 @@ C:\Users\szeon\source\repos\Session4\Session4\obj\Debug\Session4.csprojAssemblyR
 C:\Users\szeon\source\repos\Session4\Session4\obj\Debug\Session4.csproj.CoreCompileInputs.cache
 C:\Users\szeon\source\repos\Session4\Session4\obj\Debug\Session4.exe
 C:\Users\szeon\source\repos\Session4\Session4\obj\Debug\Session4.pdb
+C:\Users\szeon\source\repos\cSharp\C#Beginners\CSharpConsole\bin\Debug\Session4.exe.config
+C:\Users\szeon\source\repos\cSharp\C#Beginners\CSharpConsole\bin\Debug\Session4.exe
+C:\Users\szeon\source\repos\cSharp\C#Beginners\CSharpConsole\bin\Debug\Session4.pdb
+C:\Users\szeon\source\repos\cSharp\C#Beginners\CSharpConsole\obj\Debug\Session4.csprojAssemblyReference.cache
+C:\Users\szeon\source\repos\cSharp\C#Beginners\CSharpConsole\obj\Debug\Session4.csproj.CoreCompileInputs.cache
+C:\Users\szeon\source\repos\cSharp\C#Beginners\CSharpConsole\obj\Debug\Session4.exe
+C:\Users\szeon\source\repos\cSharp\C#Beginners\CSharpConsole\obj\Debug\Session4.pdb
